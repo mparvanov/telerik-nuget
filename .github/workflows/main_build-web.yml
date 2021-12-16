@@ -1,4 +1,4 @@
-name: Build Web Application
+name: Build Blazor Web Application
 
 on:
   workflow_dispatch:
